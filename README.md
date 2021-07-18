@@ -1,24 +1,5 @@
-# react-router-tutorial
+#Advanced-React-Tutorials
 
-(This repository is temporary)
+This app is React Route Tutorials by velopert
+Thanks for velopert
 
-## Installation
-
-```bash
-$ yarn
-```
-
-## Build
-
-```bash
-# builds code for client
-$ yarn build
-
-# builds code for server
-$ yarn build:server
-```
-
-## Run
-```bash
-$ yarn start:server
-```
