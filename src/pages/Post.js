@@ -1,10 +1,11 @@
 import React from 'react';
 
-const Post = ({match}) => {
-	return (
-	<div>
-		post {match.params.id}
-		</div>
-	);
+const Post = ({match, location}) => {
+    return (
+        <div>
+            Post #{match.params.id}
+        </div>
+    );
 };
+
 export default Post;
